@@ -1,1 +1,1 @@
-my blog
+BLOG MATTERS

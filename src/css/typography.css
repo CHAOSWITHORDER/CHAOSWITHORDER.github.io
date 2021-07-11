@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "New Tegomin";
+    src: url("../fonts/NewTegomin-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Kiwi Maru";
+    src: url("../fonts/KiwiMaru-Regular.ttf");
+}
+
+@font-face {
+    font-family: "RockWell";
+    src: url("../fonts/rockwell.ttf");
+}
+
+@font-face {
+    font-family: "Cascadia Mono PL";
+    src: url("../fonts/CascadiaMonoPL.woff2");
+}
+
+@font-face {
+    font-family: "Nunito SemiBold";
+    src: url("../fonts/Nunito-SemiBold.ttf");
+}
