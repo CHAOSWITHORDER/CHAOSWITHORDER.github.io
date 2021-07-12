@@ -32,7 +32,7 @@
   --fontFamily-serif: RockWell, "Kiwi Maru";
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
-  --font-code: "Cascadia Mono PL", "Kiwi Maru";
+  --font-code: "Iosevka Term Slab", "Kiwi Maru";
   --font-tag: var(--fontFamily-sans);
   --fontWeight-normal: 400;
   --fontWeight-medium: 500;
