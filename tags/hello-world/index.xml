@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hello World on akliuxingyuan</title>
-    <link>https://akliuxingyuan.cc/tags/hello-world/</link>
-    <description>Recent content in Hello World on akliuxingyuan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>akliuxingyuan. 本站遵循 CC-BY-NC 4.0 协议</copyright>
-    <lastBuildDate>Fri, 13 May 2022 12:44:32 +0800</lastBuildDate><atom:link href="https://akliuxingyuan.cc/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://akliuxingyuan.cc/posts/hello-world/</link>
-      <pubDate>Fri, 13 May 2022 12:44:32 +0800</pubDate>
-      
-      <guid>https://akliuxingyuan.cc/posts/hello-world/</guid>
-      <description>定理：若$ac\equiv bc \pmod m$，且若$(m,c)=d$，则 $$ a\equiv b \pmod{\frac{m}{d}} $$ 证明：因为$m|c(a-b)$，故$\frac{m}{d}|\frac{c}{d}(a-b)$，又因为$(\frac{m}{d},\frac{c}{d})=1$，所以$\frac{m}{d}|(a-b)$
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hello World on akliuxingyuan</title><link>https://akliuxingyuan.cc/tags/hello-world/</link><description>Recent content in Hello World on akliuxingyuan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>akliuxingyuan. 本站遵循 CC-BY-NC 4.0 协议</copyright><lastBuildDate>Fri, 13 May 2022 12:44:32 +0800</lastBuildDate><atom:link href="https://akliuxingyuan.cc/tags/hello-world/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://akliuxingyuan.cc/posts/hello-world/</link><pubDate>Fri, 13 May 2022 12:44:32 +0800</pubDate><guid>https://akliuxingyuan.cc/posts/hello-world/</guid><description>定理：若$ac\equiv bc \pmod m$，且若$(m,c)=d$，则 $$ a\equiv b \pmod{\frac{m}{d}} $$ 证明：因为$m|c(a-b)$，故$\frac{m}{d}|\frac{c}{d}(a-b)$，又因为$(\frac{m}{d},\frac{c}{d})=1$，所以$\frac{m}{d}|(a-b)$
 证毕
- 定理：中国剩余定理
- $$ \begin{aligned} &amp;&amp; &amp; x\equiv b_{1}\pmod{m_{1}}\\ &amp;&amp; &amp; x\equiv b_{2}\pmod{m_{2}}\\ &amp;&amp; &amp; \quad\quad\quad...\\ &amp;&amp; &amp; x\equiv b_{k}\pmod{m_{k}}\tag{1} \end{aligned} $$  定理$1$：设$m_{1},m_{2},&amp;hellip;,m_{k}$是$k$个两两互质的正整数,$m=m_{1}···m_{k},m=m_{i}M_{i}(i=1,&amp;hellip;,k)$.
-则同余式组$(1)$有唯一解</description>
-    </item>
-    
-  </channel>
-</rss>
+定理：中国剩余定理
+$$ \begin{aligned} &amp;&amp; &amp; x\equiv b_{1}\pmod{m_{1}}\\ &amp;&amp; &amp; x\equiv b_{2}\pmod{m_{2}}\\ &amp;&amp; &amp; \quad\quad\quad...\\ &amp;&amp; &amp; x\equiv b_{k}\pmod{m_{k}}\tag{1} \end{aligned} $$ 定理$1$：设$m_{1},m_{2},&amp;hellip;,m_{k}$是$k$个两两互质的正整数,$m=m_{1}···m_{k},m=m_{i}M_{i}(i=1,&amp;hellip;,k)$.
+则同余式组$(1)$有唯一解</description></item></channel></rss>
